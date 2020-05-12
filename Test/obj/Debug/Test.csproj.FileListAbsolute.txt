@@ -1,0 +1,7 @@
+E:\VS_BTproject\Test\Test\bin\Debug\Test.exe.config
+E:\VS_BTproject\Test\Test\bin\Debug\Test.exe
+E:\VS_BTproject\Test\Test\bin\Debug\Test.pdb
+E:\VS_BTproject\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\VS_BTproject\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\VS_BTproject\Test\Test\obj\Debug\Test.exe
+E:\VS_BTproject\Test\Test\obj\Debug\Test.pdb
